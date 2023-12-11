@@ -1,0 +1,58 @@
+.line1, .line2, .line3 {
+    display: flex;
+}
+
+.block {
+    border-radius: 90px;
+    background: #292F36;
+    padding-top: 63px;
+    padding-bottom: 63px;
+    padding-left: 21px;
+    padding-right: 21px;
+    display: inline-block;
+    box-shadow: 0px 24px 32px var(--2, -32px) rgba(18, 247, 214, 0.45);  
+}
+
+.num {
+    color: #12F7D6;
+    font-family: IBM Plex Mono;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 42px; 
+    text-transform: capitalize;
+}
+
+.text {
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    /* margin-top: 16px; */
+    margin-left: 10px;
+}
+.text3 {
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.text1 {
+    color: #FFF;
+    font-family: IBM Plex Mono;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    /* margin-top: 16px; */
+    margin-left: 10px;
+}
+.line2, .line3 {
+    margin-top: 70px;
+}
