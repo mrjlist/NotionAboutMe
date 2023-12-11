@@ -7,10 +7,10 @@ html {
 }
 
 .block {
-    border-radius: 90px;
+    border-radius: 25px;
     background: #292F36;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom: 41px;
     padding-left: 21px;
     padding-right: 10px;
     display: inline-block;
