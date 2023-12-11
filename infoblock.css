@@ -2,6 +2,10 @@
     display: flex;
 }
 
+html {
+    margin: -8px;
+}
+
 .block {
     border-radius: 90px;
     background: #292F36;
