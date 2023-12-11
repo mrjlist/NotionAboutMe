@@ -27,6 +27,11 @@ html {
     line-height: 42px; 
     text-transform: capitalize;
 }
+.num1 {
+    transform: rotate(-90deg);
+    margin-left: -23px;
+    margin-right: -16px;
+}
 
 .text {
     color: #FFF;
